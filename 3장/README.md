@@ -1,2 +1,0 @@
-# CleanCode
-📚 CleanCode Book Study 📚
